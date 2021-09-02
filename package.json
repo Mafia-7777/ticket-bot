@@ -1,0 +1,25 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "eris": "^0.15.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mafia-7777/ticket-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mafia-7777/ticket-bot/issues"
+  },
+  "homepage": "https://github.com/Mafia-7777/ticket-bot#readme"
+}
